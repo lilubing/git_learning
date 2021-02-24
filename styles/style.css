@@ -1,0 +1,55 @@
+p{ font-size:12px;}
+div{ border:1px solid #000000; margin-bottom:10px;}
+#main{
+	width:960px;
+	margin: 0px auto;
+}
+#menu{
+	height:110px;
+}
+#menu .menuhref{
+	background-color:#036;
+	line-height:20px;
+	height:30px;
+}
+#menu .menuhref a{
+	display:block;
+	float:left;
+	color:#fff;
+	font-size:12px;
+	margin-left:8px;
+	text-decoration:none;
+}
+#menu menu-logo{
+	height:110px;
+}
+#menu{
+	height:110px;
+}
+#swf{
+	height:310px;
+}
+#ad{
+	height:45px;
+}
+#arc{
+	height:700px;
+}
+#arc .l{
+	width:680px;
+	height:700px;
+	float:left;
+}
+#arc .r{
+	width:230px;
+	height:700px;
+	float:right;
+}
+#arc .r h2{
+	font-size:14px;
+	color:#F00;
+}
+#arc .r p{
+	color:#808080;
+	line-height:20px;
+}
